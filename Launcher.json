@@ -1,0 +1,52 @@
+{
+  "ServerVersion": 240305,
+  "LauncherVersion": 240305,
+  "LoginServerListURL": "https://github.com/nguyenvinhtlbb/LoginServer.txt/releases/download/LoginServer.txt/LoginServer.txt",
+  "NewUrl": "https://www.google.com.vn/",
+  "RegisterKey": "2DEABE0DC2FA50A9919E5BB00113447505C4A79B790314BCDDA9130396965605C6084D0DA0323DE287568ACFCE15579A",
+  "MaintenanceMsg": "Dang bao tri quay lai sau",
+  "AutoMD5": "f0d209ea2754f6ab20aaa624060762c1",
+  "ServerIP": "MTI3LjAuMC4x =",
+  "ServerPort": "ODA4MA==",
+  "SshServer_01": "1A009AFDAA7B3A57CEE0EDE2A1EAECD6",
+  "SshServer_02": "DC128495C989FA7F9AD1B458D4F26408",
+  "SshServer_03": "822B7F1DFC0809EB280214A686630C841F696B8EBEA898D65735F5C7EBEEF412",
+  "AllowList": [
+    "41132DDFE8EC2B5A52F2B6FA42A0CA78",
+    "3CBF080599A30C1CCE8F05BB01C33E32",
+    "7704FCCEFA48C82847A4874876B754BD",
+    "DDD2DE13CFAD56F3A707037A4945EB9F"
+  ],
+  "MD5HashGame": [
+    {
+      "FilePath": "\\Bin\\Game.exe",
+      "MD5File": "e4c0336df127c922b3dfa424c65b1fb4",
+      "MD5ZipFile": "9a09b9d626494f8f425754bf0c787bd9",
+      "FileName": "Game.zip"
+    }
+  ],
+  "ClientVerify": true,
+  "IsMaintenance": false,
+  "UpdateHostList": [
+    "http://127.0.0.1/"
+  ],
+  "IPAllowList": [
+    "127.0.0.1"
+  ],
+  "CharacterTrack": false,
+  "CharacterList": [
+    "4526EBD9",
+    "4695AA9B"
+  ],
+  "PathInfo": [
+    	
+	{
+      "FromVersion": 240305,
+      "ToVersion": 240306,
+      "MD5HashPath": "e823d31641d855d19265b75a8882d6e3",
+      "PathFileName": "240306.zip"
+    },
+
+	
+  ]
+}
